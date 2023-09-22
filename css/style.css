@@ -1,0 +1,10 @@
+.h3{
+    font-size: 24px;
+    font-weight: 400;
+    color: rgb(52, 88, 207);
+    text-align: center;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
